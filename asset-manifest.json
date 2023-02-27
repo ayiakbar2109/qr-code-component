@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qr-code-component/static/css/main.80d20500.css",
+    "main.js": "/qr-code-component/static/js/main.f4d63126.js",
+    "static/js/787.cc137750.chunk.js": "/qr-code-component/static/js/787.cc137750.chunk.js",
+    "index.html": "/qr-code-component/index.html",
+    "main.80d20500.css.map": "/qr-code-component/static/css/main.80d20500.css.map",
+    "main.f4d63126.js.map": "/qr-code-component/static/js/main.f4d63126.js.map",
+    "787.cc137750.chunk.js.map": "/qr-code-component/static/js/787.cc137750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80d20500.css",
+    "static/js/main.f4d63126.js"
+  ]
+}
