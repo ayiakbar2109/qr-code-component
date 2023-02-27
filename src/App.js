@@ -12,7 +12,7 @@ function App() {
     </section>
     <div class="attribution mt-7 text-end">
         Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-        Coded by <a href="#">Ayi Akbar Maulanastop</a>.
+        Coded by <a href="#">Ayi Akbar Maulana</a>.
       </div></>
       
   );
